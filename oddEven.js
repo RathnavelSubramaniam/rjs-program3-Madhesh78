@@ -8,5 +8,5 @@
 const checkOddEven = (num) => {
     return (num % 2 === 0) ? "Even" : "Odd";
 };
-let number = 8;
+let number = 7;
 console.log(number + " is " + checkOddEven(number));
